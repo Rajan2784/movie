@@ -3,6 +3,10 @@
 
 Movie Explorer is a web application that allows users to explore newly released films as well as older movies. It fetches movie data from The Movie Database (TMDB) API and includes features such as sorting, searching, infinite scrolling, and a user-friendly interface.
 
+# Image
+
+![](./public/movix.png)
+
 ## 🚨 Important Notice
 **Currently, the TMDB API is down, so the site is not fully functional.** As a result, movie data cannot be retrieved at the moment. Please check back later when the TMDB service is restored.
 
@@ -15,7 +19,7 @@ Movie Explorer is a web application that allows users to explore newly released 
 - Built with **SCSS** for styling, offering better maintainability and flexibility over regular CSS.
 
 ## Tech Stack
-- **Frontend**: JavaScript (or React, if applicable), HTML, SCSS
+- **Frontend**: ReactJs, Redux store and SCSS
 - **API**: [TMDB API](https://www.themoviedb.org/)
   
 ## Installation and Setup
