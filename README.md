@@ -24,30 +24,30 @@ Movie Explorer is a web application that allows users to explore newly released 
   
 ## Installation and Setup
 1. Clone the repository:
-    \`\`\`bash
+    ```bash
     git clone https://github.com/yourusername/your-repo-name.git
     cd your-repo-name
-    \`\`\`
+    ```
 
 2. Install dependencies:
-    \`\`\`bash
+    ```bash
     npm install
-    \`\`\`
+    ```
 
-3. Create a \`.env\` file in the root of your project and add your TMDB API key:
-    \`\`\`
+3. Create a `.env` file in the root of your project and add your TMDB API key:
+    ```
     REACT_APP_TMDB_API_KEY=your_tmdb_api_key
-    \`\`\`
+    ```
 
 4. Start the development server:
-    \`\`\`bash
+    ```bash
     npm start
-    \`\`\`
+    ```
 
 5. Open the application in your browser:
-    \`\`\`
+    ```
     http://localhost:3000
-    \`\`\`
+    ```
 
 ## Usage
 Once the application is running, you can:
